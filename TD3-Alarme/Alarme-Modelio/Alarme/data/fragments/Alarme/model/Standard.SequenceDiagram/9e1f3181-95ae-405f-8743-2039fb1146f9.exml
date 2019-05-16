@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Interaction Sequence diagram" version="4">
+  <OBJECT>
+    <ID name="Interaction Sequence diagram" mc="Standard.SequenceDiagram" uid="9e1f3181-95ae-405f-8743-2039fb1146f9"/>
+    <PID name="Interaction" mc="Standard.Interaction" uid="0abd3f6f-0d3d-41c1-9b3d-a9f80d523058"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">83</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Interaction Sequence diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <REFOBJ>
+          <ID name="leProprietaire" mc="Standard.Lifeline" uid="0790dd53-41bf-4606-8733-b4a4c344b2de"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Intrus" mc="Standard.Lifeline" uid="b7e13af8-0e2e-4c90-84f2-d5dbb8c89f87"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="leClavier" mc="Standard.Lifeline" uid="b39bbd8b-491f-41d4-8c01-14ec96632958"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="laCentrale" mc="Standard.Lifeline" uid="746156ce-6005-4a01-acc0-65e1a8eb411b"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="leCode" mc="Standard.Lifeline" uid="0daf601a-48f4-4de4-a2eb-3e8b094fb023"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="f17685e3-2284-40e3-b232-9bda2fbeddd2"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

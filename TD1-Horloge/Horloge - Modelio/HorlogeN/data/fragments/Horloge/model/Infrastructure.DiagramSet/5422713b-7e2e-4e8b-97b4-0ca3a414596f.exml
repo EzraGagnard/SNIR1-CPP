@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Horloge" version="4">
+  <OBJECT>
+    <ID name="Horloge" mc="Infrastructure.DiagramSet" uid="5422713b-7e2e-4e8b-97b4-0ca3a414596f"/>
+    <PID name="Horloge" mc="Standard.Project" uid="cc3ff369-bf9a-4744-842d-a62d997f724c"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Horloge]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

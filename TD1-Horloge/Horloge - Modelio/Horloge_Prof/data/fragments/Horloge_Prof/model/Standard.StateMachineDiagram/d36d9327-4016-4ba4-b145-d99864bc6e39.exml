@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="State Machine State Machine diagram" version="4">
+  <OBJECT>
+    <ID name="State Machine State Machine diagram" mc="Standard.StateMachineDiagram" uid="d36d9327-4016-4ba4-b145-d99864bc6e39"/>
+    <PID name="State Machine" mc="Standard.StateMachine" uid="9599efbd-4157-4f3a-8a17-6e01913ea7c8"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">343</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[State Machine State Machine diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <REFOBJ>
+          <ID name="Dernier état de l'horloge" mc="Standard.InitialPseudoState" uid="89788202-9c8f-42af-be18-833395a1f36b"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="REGLAGE_HEURES_ALARME" mc="Standard.State" uid="c505796e-59b5-40c5-a5ef-e2bf61440a03"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.Transition" uid="25fd458b-540b-4dbd-98c2-e5f2d6ca967a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="REGLAGE_MINUTES_ALARME" mc="Standard.State" uid="3104f292-7c27-42ca-8f91-f4bb09afd937"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ACTIVATION_ALARME" mc="Standard.State" uid="3b393bc0-5e43-404f-90c5-db2bc6c83dd0"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.Transition" uid="b3bf21ca-dfbf-4bc7-854c-bacc4bb8d49b"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.Transition" uid="696615ac-bffb-45bc-a76e-c0cc416e1ada"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Final State" mc="Standard.FinalState" uid="ed0869db-dddc-4629-aa8a-8ccb5d36b106"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.Transition" uid="9e8c686f-3a0b-4311-8ea3-5e5f272eb553"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="30114538-e546-447f-af80-478a586fb6c5"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

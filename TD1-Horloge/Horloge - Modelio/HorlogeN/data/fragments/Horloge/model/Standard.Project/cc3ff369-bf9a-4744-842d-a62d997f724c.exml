@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Horloge" version="4">
+  <OBJECT>
+    <ID name="Horloge" mc="Standard.Project" uid="cc3ff369-bf9a-4744-842d-a62d997f724c"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Horloge]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="horloge" mc="Standard.Package" uid="ba9f2e95-e20f-41db-a776-d5c8e22c941d"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Horloge" mc="Infrastructure.DiagramSet" uid="5422713b-7e2e-4e8b-97b4-0ca3a414596f"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

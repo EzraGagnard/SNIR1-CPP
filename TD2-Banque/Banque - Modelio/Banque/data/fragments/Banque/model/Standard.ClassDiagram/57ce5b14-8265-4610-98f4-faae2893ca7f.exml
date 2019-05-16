@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="banque Class diagram" version="4">
+  <OBJECT>
+    <ID name="banque Class diagram" mc="Standard.ClassDiagram" uid="57ce5b14-8265-4610-98f4-faae2893ca7f"/>
+    <PID name="banque" mc="Standard.Package" uid="3ef3ee83-35ec-4624-a788-368ebe9c205a"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">160</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[banque Class diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="CompteCourant" mc="Standard.Class" uid="a14d3d09-dadc-4874-a099-baf121dc2085"/>
+        <ID name="CompteEpargne" mc="Standard.Class" uid="fb883af0-4e8b-4d5d-adae-f330d58bea61"/>
+        <REFOBJ>
+          <ID name="decouvertAutorise" mc="Standard.Attribute" uid="e786af4d-08a1-4b9c-8841-3bd26021cd47"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="CompteCourant" mc="Standard.Operation" uid="40613869-6943-4187-8f59-4e00d86a0caf"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="~CompteCourant" mc="Standard.Operation" uid="761b9cf2-542d-459d-8824-b3cd8f1ddc0a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ChangerDecouvert" mc="Standard.Operation" uid="d2225f13-7510-4616-bbf7-75eeefac4744"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ObtenirSolde" mc="Standard.Operation" uid="f37f398f-4854-431e-9f94-9f9f77436f89"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="tauxInterets" mc="Standard.Attribute" uid="ea739a8a-3a7f-41c7-bd7b-05c5befec027"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="CompteEpargne" mc="Standard.Operation" uid="fb7bbb88-720b-4ef6-bfea-c752b119e39f"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="~CompteEpargne" mc="Standard.Operation" uid="043857c4-547b-4a55-a5b9-c2a446c869f3"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="ChangerTaux" mc="Standard.Operation" uid="b98d775f-6f92-43b3-b073-1fcbb8ec2833"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="CalculerTaux" mc="Standard.Operation" uid="bd7bec53-af65-4bc3-924c-d72e097c105a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="CrediterInterets" mc="Standard.Operation" uid="c722a7ae-84f8-4f69-89ec-1bde751935c4"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Retirer" mc="Standard.Operation" uid="50cab77f-848c-40d1-89e3-3ed3bad057b4"/>
+        </REFOBJ>
+        <ID name="Compte Bancaire" mc="Standard.Class" uid="b9f68764-8af7-4d45-a058-bc23d334ee66"/>
+        <REFOBJ>
+          <ID name="solde" mc="Standard.Attribute" uid="8cbc9a0e-6a84-46f7-806e-9b3747efaaa8"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Deposer" mc="Standard.Operation" uid="b0094487-cb7f-4e38-b058-3caa35a127f3"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Generalization" mc="Standard.Generalization" uid="2609fb32-b803-4f33-aac6-86d26f06c827"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Generalization" mc="Standard.Generalization" uid="e822c64d-2639-4484-825a-764e64343285"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="810c3ff5-35e9-4b7e-a1b5-eb2292bd91bd"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

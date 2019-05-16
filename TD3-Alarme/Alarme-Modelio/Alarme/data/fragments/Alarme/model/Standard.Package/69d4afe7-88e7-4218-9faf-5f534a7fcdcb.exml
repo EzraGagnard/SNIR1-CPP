@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="alarme" version="4">
+  <OBJECT>
+    <ID name="alarme" mc="Standard.Package" uid="69d4afe7-88e7-4218-9faf-5f534a7fcdcb"/>
+    <PID name="Alarme" mc="Standard.Project" uid="db663bf5-1c88-417f-82c1-ed269c4db5eb"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[alarme]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="State Machine" mc="Standard.StateMachine" uid="71cfb496-a02a-4814-b61f-d249ee03abad"/>
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="0abd3f6f-0d3d-41c1-9b3d-a9f80d523058"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Propriétaire" mc="Standard.Actor" uid="4a6850a9-48ca-4647-8f39-5438f00d0e48"/>
+        <COMPID name="Intrus" mc="Standard.Actor" uid="42f7c027-02b6-4d90-9620-b45ef6c05efc"/>
+        <COMPID name="Modifier le code" mc="Standard.UseCase" uid="fd962801-88cd-4d2a-b785-0dcf19f17e25"/>
+        <COMPID name="Armer ou desarmer l'alarme" mc="Standard.UseCase" uid="65e0868a-b8dc-4523-911b-037a210476e5"/>
+        <COMPID name="Surveiller les locaux" mc="Standard.UseCase" uid="d37338cd-7a4c-49bf-9afb-e29bd756f332"/>
+        <COMPID name="Clavier" mc="Standard.Class" uid="4b97fa9f-0161-4f00-a9c9-f92ffea602e6"/>
+        <COMPID name="DetecteurTempo" mc="Standard.Class" uid="62dae02f-b23a-475e-9296-c1cd5fc2e4a2"/>
+        <COMPID name="Detecteur" mc="Standard.Class" uid="bc46f1e4-85f7-45ca-ba58-069a03394039"/>
+        <COMPID name="CentraleDalarme" mc="Standard.Class" uid="115e3dff-8b56-4a4d-860d-d673cd61cca9"/>
+        <COMPID name="Sirene" mc="Standard.Class" uid="462b3332-863c-48f9-ab0f-d45ea96e639b"/>
+        <COMPID name="Code" mc="Standard.Class" uid="871a26b0-c3a1-46cf-a00a-8258f2ff251b"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="alarme Use Case diagram" mc="Standard.UseCaseDiagram" uid="0429b0df-eb21-4b53-9b52-479f2400ce1f"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
